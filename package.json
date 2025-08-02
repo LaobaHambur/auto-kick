@@ -1,7 +1,7 @@
 {
-  "name": "koishi-plugin-auto-kick",
+  "name": "@hambur/koishi-plugin-auto-kick",
   "description": "自动踢出黑名单用户的群管理插件",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -20,16 +20,7 @@
     "moderation",
     "security"
   ],
-  "author": "hambur <17698282656@163.com>",
-  "homepage": "https://github.com/LaobaHambur/koishi-plugin-auto-kick",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/LaobaHambur/koishi-plugin-auto-kick.git"
-  },
-  "bugs": {
-    "url": "https://github.com/LaobaHambur/koishi-plugin-auto-kick/issues"
-  },
-  "devDependencies": {},
+  "author": "hambur",
   "peerDependencies": {
     "koishi": "^4.18.7"
   },
